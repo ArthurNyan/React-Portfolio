@@ -21,7 +21,7 @@ import proj06big from  "./../img/projects/06-big.jpg";
 const projects = [
     {
         title: 'Gaming streaming portal',
-        skills: 'Мои скиллы ',
+        skills: 'HTML, CSS, React',
         img: proj01,
         imgbig: proj01big,
         
@@ -29,47 +29,47 @@ const projects = [
 
     {
         title: 'Video service',
-        skills: 'Мои скиллы ',
+        skills: 'HTML, CSS, React',
         img: proj02,
         imgbig: proj02big,
-        gitHunLink:'wad',
+        gitHunLink:'https://github.com/ArthurNyan/React-Portfolio',
 
     },
 
     {
         title: 'Video portal',
-        skills: 'Мои скиллы ',
+        skills: 'HTML, CSS, React',
         img: proj03,
         imgbig: proj03big,
-        gitHunLink:'wad',
+        gitHunLink:'https://github.com/ArthurNyan/React-Portfolio',
 
     },
 
     {
         title: 'Dating app',
-        skills: 'Мои скиллы ',
+        skills: 'HTML, CSS, React',
         img: proj04,
         imgbig: proj04big,
-        gitHunLink:'wad',
+        gitHunLink:'https://github.com/ArthurNyan/React-Portfolio',
 
     },
 
 
     {
         title: 'Landing',
-        skills: 'Мои скиллы ',
+        skills: 'HTML, CSS, React',
         img: proj05,
         imgbig: proj05big,
-        gitHunLink:'wad',
+        gitHunLink:'https://github.com/ArthurNyan/React-Portfolio',
 
     },
 
     {
         title: 'Gaming community',
-        skills: 'Мои скиллы ',
+        skills: 'HTML, CSS, React',
         img: proj06,
         imgbig: proj06big,
-        gitHunLink:'wad',
+        gitHunLink:'https://github.com/ArthurNyan/React-Portfolio',
     },
 ];
 
