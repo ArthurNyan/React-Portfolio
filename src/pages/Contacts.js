@@ -14,6 +14,7 @@ const Contacts = () => {
                         <li class="content-list__item">
                             <h2 class="title-2">Telegram / WhatsApp</h2>
                             <p><a href="tel:+79991890819">+7 (999) 189-08-19</a></p>
+                            <p><a href="tel:+79991890819">+7 (912) 467-99-78</a></p>
                         </li>
                         <li class="content-list__item">
                             <h2 class="title-2">Email</h2>

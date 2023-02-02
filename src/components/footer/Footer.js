@@ -16,9 +16,6 @@ const Footer = () => {
                         <li className="social__item"><a href="https://github.com/ArthurNyan" target="_blank" rel="noreferrer"><img src={github} alt="Link"/></a></li>
                         <li className="social__item"><a href="#!"><img src={linkedIn} alt="Link"/></a></li>
                     </ul>
-                    <div className="copyright">
-                        <p>© 2022 frontend-dev.com</p>
-                    </div>
                 </div>
             </div>
         </footer>

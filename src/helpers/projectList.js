@@ -24,6 +24,7 @@ const projects = [
         skills: 'HTML, CSS, React',
         img: proj01,
         imgbig: proj01big,
+        gitHunLink:'https://github.com/ArthurNyan/React-Portfolio',
         
     },
 
