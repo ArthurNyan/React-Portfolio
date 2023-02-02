@@ -11,7 +11,7 @@ const Header = () => {
                 <div className="header__text">
                     <p>with passion for learning and creating.</p>
                 </div>
-                <a href="#!" className="btn">Download CV</a>
+                <a href="https://github.com/ArthurNyan/React-Portfolio/blob/main/junior_frontend_developer_cv.md" className="btn">View CV</a>
             </div>
         </header>
         );
