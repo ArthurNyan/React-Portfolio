@@ -5,6 +5,7 @@
 - Россия, Ижевск
 - https://github.com/ArthurNyan
 - https://vk.com/0netab
+- https://t.me/ArthurNyan
 
 ## Навыки
 
